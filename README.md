@@ -197,5 +197,7 @@ If you have suggestions, bug fixes, or feature ideas, feel free to open an issue
 
 **TURJOY**
 🚀 Advanced RAG System By TURJOY
+
+
 <img width="1832" height="827" alt="image" src="https://github.com/user-attachments/assets/e546db09-9afe-4ca8-8c48-e891785297af" />
 
