@@ -1,0 +1,10 @@
+streamlit 
+openai 
+chromadb 
+pypdf 
+python-dotenv 
+pandas 
+numpy 
+scikit-learn 
+tiktoken 
+llama-index-core
